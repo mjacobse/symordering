@@ -1,0 +1,2 @@
+symordering.minimum_degree_impl.test_minimum_degree;
+symordering.minimum_local_fill_impl.test_minimum_local_fill;
